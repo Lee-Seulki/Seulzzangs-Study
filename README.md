@@ -6,4 +6,5 @@
 
 > `📁BOJ_기초`: [백준 온라인 저지 단계별 풀이](https://www.acmicpc.net/step) 
 
-> `📁ML_practice`: 머신러닝 수업, 예제 연습
+> `📁ML_practice`: 머신러닝 수업, 예제 연습   
+   (📖참고도서: [파이썬 머신러닝 완벽 가이드](https://wikibook.co.kr/pymlrev2/))
